@@ -1,20 +1,20 @@
 # --- General options --- #
 
 # Name of website
-title: Anudit Verma
+title: nuk3s3c
 
 # Short description of your site
 description: Let me introduce you to my geek side!
 
 # Your name to show in the footer
-author: Anudit Verma
+author: nuk3s3c
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://www.anudit.in/"
+url: "https://nuke3s3c.github.io/"
 
 # baseurl should be an empty string
 baseurl: ""
@@ -108,7 +108,7 @@ url-pretty: "anudit.in"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-84991519-1"
+google_analytics: ""
 
 # Google Tag Manager ID
 #gtm: ""
@@ -116,7 +116,7 @@ google_analytics: "UA-84991519-1"
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "anuditverma"
+disqus: ""
 
 # To use Facebook Comments, fill in a Facebook App ID
 # fb_comment_id: ""
